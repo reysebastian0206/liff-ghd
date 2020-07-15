@@ -1,2 +1,2 @@
-# liff-ghd
-sample
+# liff
+Public Liff
